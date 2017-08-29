@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/curve.png</file>
+        <file>images/surface.png</file>
+    </qresource>
+</RCC>
