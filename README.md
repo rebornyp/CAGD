@@ -1,2 +1,3 @@
 # CAGD
-a project based on the platform of Qt aiming at draw the curves and surfaces
+CAGD大作业，基于Qt平台，可用于绘制曲线曲面
+-------------
